@@ -1,0 +1,32 @@
+1)what is java?
+java is programing longuage, obeject oreinted,open source,high level longuage and easyl understandable by everyone.
+
+
+2)explain how java file will exsicute?
+go to file name ,and write click ,open cantiner folder in cmd, and give javac and file name.java ,and it will compile ,and next give java space file name it will exsicute.
+
+
+3)what is datatype.explain types of data type?
+it will specify the what type of data/value to be stored in variable.
+>>types of datatype.
+*primative datatype :it will store the single values /specific vales.
+(int,float,char,byte,short,double,boolean,long)
+*non primative datatype:it will soore the mulltipal values.
+(string)
+
+
+4)what is variable .explain types of variable?
+variables are cantainer to store the values.
+>>types of variables.
+
+*locala variable : decalre inside the  method anywhere of the class.
+
+*static variable : declare inside the class outside the method useing static keyword.
+
+*parameterized variable : variables are decalred inside the paranthises.
+
+*instance variable: declare inside the class outside the method without useing static keyword .
+
+
+
+
